@@ -1,0 +1,32 @@
+HOW TO UNZIP
+
+Step 1: Go to File Manager or Zarchiver
+
+Step 2: In File Manager go to recent it will show it first, if there's is no RECENT on your device go to downloads. In Zarchiver find download.
+
+Step 3: Find the File (zip).
+
+Step 4: Click the zip file and click uncompress or unzip.
+
+Step 5: Go to Play Store or App Store.
+
+Step 6: Search Spck Editor and Download.
+
+Step 7: Open Spck Editor.
+
+Step 8: On the top left there is hamburger menu, click it.
+
+Step 9: In Files there's a ... button on the last, click it.
+
+Step 10: Click Import Files.
+
+Step 11: Find the HTML, CSS, and JAVASCRIPT.
+
+Step 12: Input all your pictures/videos on html.
+
+
+How to Host on GitHub Tutorial
+
+Step 1: Go to YouTube
+
+Step 2: Search How to Host on GitHub
